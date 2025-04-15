@@ -4,4 +4,4 @@
 |:----------------- |:-----------------:| ------------------------:|
 |  [Исследование NPS](https://github.com/NatalyaMoroz/Practicum_projects/tree/main/P1.NPS)                | Большая телекоммуникационная компания просит исследовать текущий уровень потребительской лояльности, или NPS (от англ. Net Promoter Score), среди клиентов из России и построить дашборд. | SQL, Phyton, Pandas,  Tableau  |
 | [Исследование российского кинопроката](https://github.com/NatalyaMoroz/Practicum_projects/tree/main/P2.film_%20distribution)      |  Изучение рынка российского кинопроката и выявление текущих трендов. Внимание фильмам, которые получили гос.поддержку.      | Phyton, Pandas           |
-|  |         |         |
+|[Анализ А/В-теста крупного интернет-магазина](https://github.com/NatalyaMoroz/Practicum_projects/tree/main/P2.film_%20distribution)| Проверка списка гипотез для увеличения выручки. Приоритизация гипотез, запуск A/B-тест и анализ результатов        |  Phyton, Pandas, A/B тест | 
